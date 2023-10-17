@@ -3,7 +3,7 @@
   "name": "dataspecification",
   "type": "ap",
   "eap": "dataspecification.eap",
-  "diagram": "OSLO-EA",
+  "diagram": "dataspecification",
   "template": "dataspecification.j2",
   "title": "Data Specifications",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
