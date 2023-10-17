@@ -1,21 +1,9 @@
-# OSLOthema-mijnThema
-
-**_Editors:_**
-- first read [deze richtlijnen](https://github.com/Informatievlaanderen/OSLO-toolchain/blob/master/doc-user/README.md) .
-- Use [TagsAndNotes.xlsm](https://github.com/Informatievlaanderen/OSLO-allerleiTooltjes/tree/master/EA-Excel/TagsAndNotes) 
-  to edit tags in Excel. The files `*.xlsm` are included in the repo as git-ignored.
+# OSLOthema-Toolchain
 
 
-## Administrative information
+This repository hosts the implementation model documenting the internal structures of the OSLO toolchain.
+In particular it documents the resulting data model that is created after extracting information from an UML model.
 
-### Tags
-To refer to the available git tags to create a publication point from, see the "Releases" tab of this repo.
+This implementation model is the information that can be collected about any dataspecification in a formal way.
+And based on this standard artefact renderers can be made.
 
-
-### Branches
-The organisation and meaning of the git branches are documented in this table.
-
-
-| Branch | Purpose | Active (y/n) |
-| ------ | --------- | ---------------- | 
-|  |  |  |

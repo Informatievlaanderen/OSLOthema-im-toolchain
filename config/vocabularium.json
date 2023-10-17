@@ -1,0 +1,17 @@
+[
+{
+  "name": "vocabularium",
+  "type": "voc",
+  "eap": "dataspecification.eap",
+  "diagram": "vocabularium",
+  "template": "vocabularium.j2",
+  "title": "Data specification vocabularium",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2023-10-17",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Stakeholder",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-toolchain/issues",
+  "standaardregisterurl": ""
+}
+]

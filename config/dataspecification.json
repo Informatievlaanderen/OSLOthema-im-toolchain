@@ -1,0 +1,18 @@
+[
+{
+  "name": "dataspecification",
+  "type": "ap",
+  "eap": "dataspecification.eap",
+  "diagram": "OSLO-EA",
+  "template": "dataspecification.j2",
+  "title": "Data Specifications",
+  "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
+  "publication-date": "2023-10-17",
+  "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+  "contributors-file": "stakeholders.csv",
+  "contributors-column": "Stakeholder",
+  "site": "site-skeleton/dataspecification",
+  "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-im-toolchain/issues",
+  "standaardregisterurl": ""
+}
+]
